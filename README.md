@@ -1,6 +1,6 @@
 # Meine ersten Arbeiten mit Python
 
-Dieses Repository enthält meine ersten Arbeiten zur Programmiersprache Python. Insgesamt sind 6 verschiedene Dateien vorhanden:
+Dieses Repository enthält meine ersten Übungen zur Programmiersprache Python. Insgesamt sind 6 verschiedene Dateien vorhanden:
 
 1. **Python Introduction.ipynb**: Einführung in die Programmiersprache Python.
 2. **Functions.ipynb**: Verwendung und Bedeutung von Funktionen.
